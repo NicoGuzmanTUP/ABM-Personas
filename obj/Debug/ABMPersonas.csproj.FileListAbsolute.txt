@@ -1,0 +1,10 @@
+C:\Users\Windows\Desktop\TUP\programacion - logica\U4_2025\ABMPersonas\bin\Debug\ABMPersonas.exe.config
+C:\Users\Windows\Desktop\TUP\programacion - logica\U4_2025\ABMPersonas\bin\Debug\ABMPersonas.exe
+C:\Users\Windows\Desktop\TUP\programacion - logica\U4_2025\ABMPersonas\bin\Debug\ABMPersonas.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\U4_2025\ABMPersonas\obj\Debug\ABMPersonas.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\U4_2025\ABMPersonas\obj\Debug\ABMPersonas.FrmPersona.resources
+C:\Users\Windows\Desktop\TUP\programacion - logica\U4_2025\ABMPersonas\obj\Debug\ABMPersonas.Properties.Resources.resources
+C:\Users\Windows\Desktop\TUP\programacion - logica\U4_2025\ABMPersonas\obj\Debug\ABMPersonas.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\U4_2025\ABMPersonas\obj\Debug\ABMPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\U4_2025\ABMPersonas\obj\Debug\ABMPersonas.exe
+C:\Users\Windows\Desktop\TUP\programacion - logica\U4_2025\ABMPersonas\obj\Debug\ABMPersonas.pdb
